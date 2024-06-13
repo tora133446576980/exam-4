@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+ul {
+    display: flex;
+    gap: 128.5px;
+    align-items: center;
+}
+
+ul li a {
+    font-weight: 700px;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+}
+
+ul li a:hover {
+    color: red;
+    font-family: "Open Sans", sans-serif;
+}
+
+button {
+    color: #DE2E54;
+    background-color: white;
+    border: 1px solid #DE2E54;
+    border-radius: 8px;
+    padding: 12px 24px;
+}
+
+button:hover {
+    background-color: #DE2E54;
+    color: white;
+}
+
+.div {
+    background-image: url(https://s3-alpha-sig.figma.com/img/8d77/a05a/ae0b5a86186ed1ee3cd1a093fd90802f?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GeLtEi~lD3dVQE2AxjPPiaXSPzaqXWmtlXbgVRE0SOBJQUEoCPinGxx62TkWgTVhsyXWjMIy~qUNZZ2CRkzfPpsK3qxB2zqKClYCGuQF1GoWbPg6~d~nmz5BugFHGmkEfzfbthLLnduw4fdPwc1POOCZ~Mdlwl5iaEqXINN0s6iZvTiQymYs8SidTZQBU3JwkE1TF7209Pm7YHJ9Q~wZvTxycfiULO9o2jyCzK1gFsnITTQGEmDl2waMXxW-P2sAQ3v43ClMvAnYBJ-rCXTtDqsqKk6rp31-lrr4VMnEdeoqxrbeRoV8g9oCtJjxQriAprDPDXq8PYAb73JxCiLwLA__);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin-top: 187.96px;
+    color: white;
+}
+
+.button {
+    color: #DE2E54;
+    background-color: white;
+    border: 1px solid #DE2E54;
+    border-radius: 8px;
+    padding: 12px 24px;
+    margin-top: 48.91px;
+}
+
+.button:hover {
+    background-color: #DE2E54;
+    color: white;
+}
+
+.img {
+    margin-top: 50.72px;
+}
+
+.Xizmatlar {
+    font-family: "Oswald", sans-serif;
+    font-size: 36px;
+    font-weight: 700px;
+    text-align: center;
+    margin-top: 65.9px;
+}
+
+.hijoma {
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    margin-top: 30.75px;
+}
+
+h4 {
+    font-family: "Oswald", sans-serif;
+    font-size: 24px;
+    font-weight: 700px;
+    margin-top: 25.5px;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-top: 24px;
+}
+
+.terapiya {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    gap: 64px;
+    margin-bottom: 215.74px;
+}
+
+.q {
+    margin: 37.5px 0;
+}
+
+.me {
+    font-size: 64px;
+    font-weight: 600px;
+    padding: 64px;
+    text-align: center;
+}
+
+.section {
+    background-color: #0EB4C1;
+}
+
+form {
+    background-color: white;
+    width: 540px;
+    height: 331px;
+    border-radius: 20px;
+    padding: 27.93px 40px 51.89px 40px;
+    margin-bottom: 110px;
+}
+
+.dir {
+    display: flex;
+    justify-content: center;
+    gap: 65px;
+    margin-top: 111px;
+}
+
+input {
+    width: 460px;
+    height: 39.11px;
+    margin-top: 13.97px;
+    padding-left: 7px;
+    font-size: 14px;
+    font-weight: 600px;
+    font-family: "Poppins", sans-serif;
+}
+
+.jonatish {
+    font-size: 14px;
+    font-weight: 600px;
+    font-family: "Poppins", sans-serif;
+    width: 460px;
+    margin: 13px auto 0;
+}
+
+footer {
+    background-color: #222222;
+    display: flex;
+    padding: 24px;
+}
+
+.t{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
